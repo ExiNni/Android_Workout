@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="그림 회전"
+        android:id="@+id/rotate"/>
+    <item android:title="그림 선택 >>">
+        <menu>
+            <item
+                android:id="@+id/jeju02"
+                android:title="추자도" />
+            <item
+                android:id="@+id/jeju06"
+                android:title="범섬" />
+            <item
+                android:id="@+id/jeju14"
+                android:title="한라산" />
+        </menu>
+    </item>
+
+</menu>
